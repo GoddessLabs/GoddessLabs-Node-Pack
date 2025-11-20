@@ -37184,6 +37184,13 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        }	
+		}, 
+		
+		{
+		    "title": "GoddessLabs NodePack",
+		    "description": "Custom nodes for image enhancement, including the Folder Browser for cross-platform file selection.",
+		    "git": "https://github.com/GoddessLabs/ComfyUI-GoddessLabs-NodePack",
+		    "author": "GoddessLabs"
+		}
     ]
 }
